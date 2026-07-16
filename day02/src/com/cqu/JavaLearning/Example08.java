@@ -1,0 +1,7 @@
+package com.cqu.JavaLearning;
+
+public class Example08 {
+    public static void main(String[] args) {
+
+    }
+}
