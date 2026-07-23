@@ -10,4 +10,5 @@ public class Cat extends Animal{
     public void getMouse(){
         System.out.println("猫捉老鼠");
     }
+
 }
